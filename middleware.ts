@@ -1,0 +1,1 @@
+// Redirect middleware placeholder
